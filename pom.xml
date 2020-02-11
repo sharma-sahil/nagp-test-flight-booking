@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.nagarro.nagp</groupId>
-	<artifactId>nagp-test-service-2</artifactId>
+	<artifactId>nagp-test-flight-booking</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>nagp-test-service-2</name>
+	<name>nagp-test-flight-booking</name>
 	<description>Demo project for NAGP microservices test</description>
 
 	<properties>
